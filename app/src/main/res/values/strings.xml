@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">StudentsApp</string>
+
+    <string name="splash_txt_1">Student \n App…</string>
+
+    <string name="login">LOG IN</string>
+
+    <string name="splash_txt_2">Don\'t have an account?Sign Up</string>
+
+    <string name="logn_txt_1">SIGN IN</string>
+
+    <string name="logn_txt_2">User Name</string>
+
+    <string name="logn_txt_3">Password</string>
+
+    <string name="logn_txt_4"><u>Forget Password?</u></string>
+
+    <string name="regs_txt_1">SIGN UP</string>
+
+    <string name="regs_txt_2">Phone No</string>
+
+    <string name="regs_txt_3">Confirm Password</string>
+
+    <string name="home_txt_1">Add Student</string>
+
+    <string name="home_txt_2">View Data</string>
+
+    <string name="home_txt_3">Map View</string>
+
+    <string name="home_txt_4">Welcome To</string>
+
+    <string name="home_txt_5">Student Database App</string>
+
+    <string name="add_data_txt_1">Name</string>
+
+    <string name="add_data_txt_2">Class</string>
+
+</resources>
